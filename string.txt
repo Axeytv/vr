@@ -1,1 +1,1 @@
-Updated text string, loading from github!
+Initial text string, loading from github!
