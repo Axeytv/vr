@@ -1,4 +1,4 @@
-[10] soberquantum
+[20] soberquantum
 [5] Nephtanica
 [50] Surrak1
 [10] Smikers
