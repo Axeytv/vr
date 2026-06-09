@@ -1,0 +1,26 @@
+{
+  "discord_msg": "Test message from discord!",
+  "imageRev": 8,
+  "twitch_gifters": [
+    {
+      "count": 5,
+      "name": "soberquantum"
+    },
+    {
+      "count": 5,
+      "name": "Smikers"
+    },
+    {
+      "count": 5,
+      "name": "madhei"
+    },
+    {
+      "count": 5,
+      "name": "cl2000th"
+    },
+    {
+      "count": 5,
+      "name": "lucasarino92"
+    }
+  ]
+}
