@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 50,
+      "name": "veryfast_6l_gtr"
+    },
+    {
+      "count": 50,
       "name": "Axey"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "birdy1123"
-    },
-    {
-      "count": 10,
-      "name": "soberquantum"
     }
   ]
 }
