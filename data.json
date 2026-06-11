@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "Beydestrian"
+    },
+    {
+      "count": 5,
       "name": "TossVandy"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "kimsebimse1"
-    },
-    {
-      "count": 20,
-      "name": "pie_space"
     }
   ]
 }
