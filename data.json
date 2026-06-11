@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "rep3l"
+    },
+    {
+      "count": 5,
       "name": "sethron"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "cl2000th"
-    },
-    {
-      "count": 10,
-      "name": "TheGreatPewdini"
     }
   ]
 }
