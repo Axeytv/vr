@@ -3,6 +3,10 @@
   "imageRev": 8,
   "twitch_gifters": [
     {
+      "count": 5,
+      "name": "rep3l"
+    },
+    {
       "count": 10,
       "name": "Smikers"
     },
@@ -37,10 +41,6 @@
     {
       "count": 50,
       "name": "veryfast_6l_gtr"
-    },
-    {
-      "count": 50,
-      "name": "Axey"
     }
   ]
 }
