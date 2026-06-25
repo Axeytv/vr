@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "RUSHFROG"
+    },
+    {
+      "count": 5,
       "name": "LadyTalie"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "MattyIceMWU"
-    },
-    {
-      "count": 10,
-      "name": "Smikers"
     }
   ]
 }
