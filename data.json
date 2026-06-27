@@ -3,6 +3,10 @@
   "imageRev": 8,
   "twitch_gifters": [
     {
+      "count": 10,
+      "name": "Gerend"
+    },
+    {
       "count": 5,
       "name": "Surrak1"
     },
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "RUSHFROG"
-    },
-    {
-      "count": 5,
-      "name": "LadyTalie"
     }
   ]
 }
