@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "ragingbiitz"
+    },
+    {
+      "count": 5,
       "name": "Cogglu"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "Thebloodyhitman"
-    },
-    {
-      "count": 5,
-      "name": "sethron"
     }
   ]
 }
