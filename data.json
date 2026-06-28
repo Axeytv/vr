@@ -3,6 +3,14 @@
   "imageRev": 8,
   "twitch_gifters": [
     {
+      "count": 5,
+      "name": "enderw42"
+    },
+    {
+      "count": 5,
+      "name": "Smikers"
+    },
+    {
       "count": 10,
       "name": "Surrak1"
     },
@@ -33,14 +41,6 @@
     {
       "count": 10,
       "name": "Gerend"
-    },
-    {
-      "count": 5,
-      "name": "Surrak1"
-    },
-    {
-      "count": 5,
-      "name": "bloodraven5"
     }
   ]
 }
