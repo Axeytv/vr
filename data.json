@@ -3,6 +3,14 @@
   "imageRev": 8,
   "twitch_gifters": [
     {
+      "count": 25,
+      "name": "memphisbarbequesupply"
+    },
+    {
+      "count": 5,
+      "name": "Ghostly_Chris"
+    },
+    {
       "count": 5,
       "name": "enderw42"
     },
@@ -33,14 +41,6 @@
     {
       "count": 5,
       "name": "ItsJayya"
-    },
-    {
-      "count": 5,
-      "name": "American_Hunter1"
-    },
-    {
-      "count": 10,
-      "name": "Gerend"
     }
   ]
 }
