@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "Smikers"
+    },
+    {
+      "count": 5,
       "name": "Denimdan13"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "dy_21"
-    },
-    {
-      "count": 5,
-      "name": "Bomjus"
     }
   ]
 }
