@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "FuseOfDoom"
+    },
+    {
+      "count": 5,
       "name": "lPointl"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "xer0b1t"
-    },
-    {
-      "count": 40,
-      "name": "MattyIceMWU"
     }
   ]
 }
