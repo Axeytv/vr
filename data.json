@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "sovvagn"
+    },
+    {
+      "count": 5,
       "name": "xer0b1t"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 20,
       "name": "AnAnonymousGifter"
-    },
-    {
-      "count": 5,
-      "name": "Bamrog"
     }
   ]
 }
