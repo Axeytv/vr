@@ -3,6 +3,10 @@
   "imageRev": 8,
   "twitch_gifters": [
     {
+      "count": 7,
+      "name": "0pr4h"
+    },
+    {
       "count": 5,
       "name": "xer0b1t"
     },
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "FuseOfDoom"
-    },
-    {
-      "count": 5,
-      "name": "lPointl"
     }
   ]
 }
