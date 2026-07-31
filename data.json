@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "DimSchisms"
+    },
+    {
+      "count": 5,
       "name": "xer0b1t"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "xer0b1t"
-    },
-    {
-      "count": 5,
-      "name": "sovvagn"
     }
   ]
 }
