@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 6,
+      "name": "unknowncobra2024"
+    },
+    {
+      "count": 6,
       "name": "Hefill"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 20,
       "name": "Smikers"
-    },
-    {
-      "count": 100,
-      "name": "Surrak1"
     }
   ]
 }
