@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "Toliver_Cosgrave"
+    },
+    {
+      "count": 5,
       "name": "Smikers"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 50,
       "name": "Surrak1"
-    },
-    {
-      "count": 50,
-      "name": "veryfast_6l_gtr"
     }
   ]
 }
