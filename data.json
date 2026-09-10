@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "CasinoDuelist"
+    },
+    {
+      "count": 5,
       "name": "veryfast_6l_gtr"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "MattyIceMWU"
-    },
-    {
-      "count": 5,
-      "name": "Remvarian"
     }
   ]
 }
