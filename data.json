@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "fatbaptist"
+    },
+    {
+      "count": 5,
       "name": "poot_n_scoot"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "Sparky1232"
-    },
-    {
-      "count": 5,
-      "name": "Miatuc"
     }
   ]
 }
