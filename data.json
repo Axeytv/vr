@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "impartialcredit"
+    },
+    {
+      "count": 5,
       "name": "Khensama"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 5,
       "name": "xeyvian"
-    },
-    {
-      "count": 100,
-      "name": "ballistic_platypus"
     }
   ]
 }
