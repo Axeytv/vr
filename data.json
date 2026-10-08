@@ -3,6 +3,14 @@
   "imageRev": 8,
   "twitch_gifters": [
     {
+      "count": 20,
+      "name": "KBiscotti"
+    },
+    {
+      "count": 5,
+      "name": "MattyIceMWU"
+    },
+    {
       "count": 30,
       "name": "Surrak1"
     },
@@ -33,14 +41,6 @@
     {
       "count": 5,
       "name": "Toliver_Cosgrave"
-    },
-    {
-      "count": 5,
-      "name": "cpt_broken_machine"
-    },
-    {
-      "count": 10,
-      "name": "Smikers"
     }
   ]
 }
