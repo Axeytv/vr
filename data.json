@@ -4,6 +4,10 @@
   "twitch_gifters": [
     {
       "count": 5,
+      "name": "exerex"
+    },
+    {
+      "count": 5,
       "name": "rogerdandy"
     },
     {
@@ -37,10 +41,6 @@
     {
       "count": 50,
       "name": "ciggiewastaken"
-    },
-    {
-      "count": 5,
-      "name": "AnAnonymousGifter"
     }
   ]
 }
